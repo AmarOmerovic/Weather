@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00FFFFFF"
+    android:orientation="horizontal"
+    android:padding="30sp"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="20dp"
+        android:background="#00FFFFFF"
+        android:indeterminateTint="@color/white"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="start|center"
+        android:background="#00FFFFFF"
+        android:text="@string/please_wait"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_view_side_margin">5dp</dimen>
+    <dimen name="card_view_top_bottom_margin">15dp</dimen>
+    <dimen name="card_view_corner_radius">10dp</dimen>
+    <dimen name="card_view_card_elevation">10dp</dimen>
+    <dimen name="card_view_linear_layout_padding">20dp</dimen>
+    <dimen name="bolded_text_size">20sp</dimen>
+    <dimen name="normal_text_size">16sp</dimen>
+    <dimen name="weather_image_padding">30sp</dimen>
+    <dimen name="weather_bolded_text_size">35sp</dimen>
+    <dimen name="weather_normal_text_size">22sp</dimen>
+    <dimen name="temperature_bolded_text_size">27sp</dimen>
+    <dimen name="temperature_normal_text_size">45sp</dimen>
+    <dimen name="temperature_image_padding">38sp</dimen>
+    <dimen name="humidity_image_padding">20sp</dimen>
+    <dimen name="padding_end_country_name">15dp</dimen>
+
+</resources>
